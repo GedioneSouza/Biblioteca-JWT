@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+git remote add novo_nome [URL_do_repositório]
 
 # Editor directories and files
 .vscode/*
